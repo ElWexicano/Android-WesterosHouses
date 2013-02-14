@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string-array name="house_names">
+        <item name="stark">House Stark</item>
+        <item name="baratheon">House Baratheon</item>
+        <item name="arryn">House Arryn</item>
+        <item name="lannister">House Lannister</item>
+        <item name="tully">House Tully</item>
+        <item name="targaryen">House Targaryen</item>
+        <item name="frey">House Frey</item>
+        <item name="tyrell">House Tyrell</item>
+        <item name="greyjoy">House Greyjoy</item>
+    </string-array>
+    
+    <string-array name="house_descriptions">
+        <item name="stark">The leading house of the North, the Starks reigned as Kings in the North until the Targaryen conquest and served as the region\'s warden for nearly 300 years. Following the execution of his father, Robb Stark severed ties with King\'s Landing and declared himself King in the North.</item>
+        <item name="baratheon">Young Joffrey Baratheon now sits on the Iron Throne, but whispers about his parentage swirl around the kingdom, giving his uncles possible claim to his seat. House Baratheon, founded after the conquest of Aegon Targaryen, has ruled the Seven Kingdoms since Robert seized the Iron Throne from the Mad King Aerys Targaryen.</item>
+        <item name="arryn">Located in the Vale, the Arryns serve as Warden of the East from their mountain stronghold, the Eyrie – a key defense against the violent clans that surround their home. The widowed Lysa Arryn rules from her perch, unwilling to involve herself, or her precious son, in the battles below.</item>
+        <item name="lannister">The wealthiest family in Westeros, the Lannisters of Casterly Rock ruled as kings in their realm until the Targaryen dragons conquered the continent. Cersei Lannister\'s marriage to King Robert Baratheon brought the Lannisters to King\'s Landing, and now her son Joffrey\'s ascendance to the Iron Throne has solidified their power.</item>
+        <item name="tully">The principal house of the Riverlands, the Tullys rose to power during the Targaryen conquest. When the invaders attacked, Edmyn Tully rebelled against the King of the Isles, Harren the Black, and sided with Aegon Targaryen. Harren’s other supporters soon followed suit, paving the way for the new king.</item>
+        <item name="targaryen">After a mysterious disaster known as the Doom of Valyria wiped out their homeland and killed most of the world’s dragons, the Targaryens invaded Westeros. A rebellion eliminated most of the royal family, but from Essos, the exiled Daenerys Targaryen strives to reclaim her place on the Iron Throne.</item>
+        <item name="frey">Wealthy and powerful, the Freys are bannermen sworn to House Tully. The House is led by Walder Frey, who took his eighth wife, a 15-year-old, when he himself was over 90. Ever ambitious, Walder blocked Robb Stark\'s army in the Riverlands until a strategic marriage was brokered between the two families.</item>
+        <item name="tyrell">For centuries, the Tyrells served and occasionally intermarried with House Gardener, the ancient family of the King of the Reach. But after the Targaryen conquest eliminated the Gardeners, the Tyrells bent the knee to the Iron Throne – and then rose to become principal house and Warden of the South. They’ve since thrown their support behind Renly Baratheon’s claim to the throne.</item>
+        <item name="greyjoy">House Greyjoy\'s power dates back to the great Grey King during the Age of Heroes. Legend has it that the Grey King ruled the sea itself and took a mermaid for his wife. While still the ruling family of the Iron Islands, the Greyjoys have always had larger designs.</item>
+    </string-array>
+
+</resources>
