@@ -3,6 +3,7 @@ package com.example.westeroshouses;
 import java.util.Arrays;
 import java.util.List;
 
+import android.annotation.TargetApi;
 import android.app.Activity;
 import android.os.Build;
 import android.os.Bundle;
@@ -25,6 +26,7 @@ public class HouseListFragment extends ListFragment {
 	};
 
 	@Override
+	@TargetApi(8)
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		mHouseNamesList = Arrays.asList(getResources().getStringArray(

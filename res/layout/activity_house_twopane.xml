@@ -6,7 +6,8 @@
     android:layout_marginRight="16dp"
     android:orientation="horizontal"
     android:showDividers="middle"
-    tools:context=".HouseListActivity" >
+    tools:context=".HouseListActivity" 
+    android:baselineAligned="false">
 
     <fragment
         android:id="@+id/fragment_house_list"

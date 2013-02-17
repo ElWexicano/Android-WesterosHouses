@@ -2,7 +2,6 @@
 <resources>
 
     <string name="app_name">Houses of Westeros</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_house_detail">House Detail</string>
     <string name="house_name_sample">House O\'Dubhghaill</string>
