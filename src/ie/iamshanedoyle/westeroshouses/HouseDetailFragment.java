@@ -1,7 +1,9 @@
-package com.example.westeroshouses;
+package ie.iamshanedoyle.westeroshouses;
 
 import java.util.Arrays;
 import java.util.List;
+
+import com.example.westeroshouses.R;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

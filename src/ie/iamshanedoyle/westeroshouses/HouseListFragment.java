@@ -1,7 +1,9 @@
-package com.example.westeroshouses;
+package ie.iamshanedoyle.westeroshouses;
 
 import java.util.Arrays;
 import java.util.List;
+
+import com.example.westeroshouses.R;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -26,7 +28,7 @@ public class HouseListFragment extends ListFragment {
 	};
 
 	@Override
-	@TargetApi(8)
+	@TargetApi(Build.VERSION_CODES.HONEYCOMB)
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		mHouseNamesList = Arrays.asList(getResources().getStringArray(

@@ -1,4 +1,6 @@
-package com.example.westeroshouses;
+package ie.iamshanedoyle.westeroshouses;
+
+import com.example.westeroshouses.R;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.westeroshouses.HouseListActivity"
+            android:name="ie.iamshanedoyle.westeroshouses.HouseListActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.westeroshouses.HouseDetailActivity"
+            android:name="ie.iamshanedoyle.westeroshouses.HouseDetailActivity"
             android:label="@string/title_house_detail"
             android:parentActivityName="HouseListActivity">
             <meta-data

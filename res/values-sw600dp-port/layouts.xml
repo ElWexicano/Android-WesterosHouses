@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <item name="activity_house_list" type="layout">@layout/activity_house_list</item>
-    <bool name="has_two_panes">false</bool>
 </resources>

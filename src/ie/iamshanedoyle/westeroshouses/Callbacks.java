@@ -1,4 +1,4 @@
-package com.example.westeroshouses;
+package ie.iamshanedoyle.westeroshouses;
 
 public interface Callbacks {
 
